@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\pFarser\pFarser\bin\Debug\netcoreapp2.1\pFarser.deps.json
+C:\Users\User\source\repos\pFarser\pFarser\bin\Debug\netcoreapp2.1\pFarser.runtimeconfig.json
+C:\Users\User\source\repos\pFarser\pFarser\bin\Debug\netcoreapp2.1\pFarser.runtimeconfig.dev.json
+C:\Users\User\source\repos\pFarser\pFarser\bin\Debug\netcoreapp2.1\pFarser.dll
+C:\Users\User\source\repos\pFarser\pFarser\bin\Debug\netcoreapp2.1\pFarser.pdb
+C:\Users\User\source\repos\pFarser\pFarser\obj\Debug\netcoreapp2.1\pFarser.fsprojAssemblyReference.cache
+C:\Users\User\source\repos\pFarser\pFarser\obj\Debug\netcoreapp2.1\pFarser.dll
+C:\Users\User\source\repos\pFarser\pFarser\obj\Debug\netcoreapp2.1\pFarser.pdb
