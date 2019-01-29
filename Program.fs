@@ -22,4 +22,4 @@ module Program =
     let main args =
         CreateWebHostBuilder(args).Build().Run()
 
-        exitCode
+

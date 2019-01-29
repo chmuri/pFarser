@@ -1,0 +1,10 @@
+/home/chmuri/data/git/pFarser/bin/Debug/netcoreapp2.1/pFarser.deps.json
+/home/chmuri/data/git/pFarser/bin/Debug/netcoreapp2.1/pFarser.runtimeconfig.json
+/home/chmuri/data/git/pFarser/bin/Debug/netcoreapp2.1/pFarser.runtimeconfig.dev.json
+/home/chmuri/data/git/pFarser/bin/Debug/netcoreapp2.1/pFarser.dll
+/home/chmuri/data/git/pFarser/bin/Debug/netcoreapp2.1/pFarser.pdb
+/home/chmuri/data/git/pFarser/obj/Debug/netcoreapp2.1/pFarser.fsprojAssemblyReference.cache
+/home/chmuri/data/git/pFarser/obj/Debug/netcoreapp2.1/pFarser.AssemblyInfoInputs.cache
+/home/chmuri/data/git/pFarser/obj/Debug/netcoreapp2.1/pFarser.AssemblyInfo.fs
+/home/chmuri/data/git/pFarser/obj/Debug/netcoreapp2.1/pFarser.dll
+/home/chmuri/data/git/pFarser/obj/Debug/netcoreapp2.1/pFarser.pdb
